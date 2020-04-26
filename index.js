@@ -1,5 +1,4 @@
 document.getElementById("signInButton").addEventListener("click", function signInButton(){
-
     document.querySelector(".backGroundOnForm").style.display="flex";
 });
 
